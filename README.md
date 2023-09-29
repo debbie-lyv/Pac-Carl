@@ -1,6 +1,4 @@
 # Pac-Carl
-Pac-man-like game (java)
-
 
 This ongoing project is a pac-man like game in honour of our computer science professor, Dr Carl.
 
